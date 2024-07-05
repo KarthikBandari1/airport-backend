@@ -1,4 +1,3 @@
-// src/scripts/createTables.js
 const pool = require('../config/database');
 
 async function createTables() {
